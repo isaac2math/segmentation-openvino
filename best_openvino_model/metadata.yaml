@@ -1,0 +1,12 @@
+description: Ultralytics best model trained on dataset.yaml
+author: Ultralytics
+license: GPL-3.0 https://ultralytics.com/license
+version: 8.0.43
+stride: 32
+names:
+  0: chute
+  1: chute_skirt
+  2: train_car
+  3: ore
+  4: ore_spill_traincar
+  5: ore_spill_chute

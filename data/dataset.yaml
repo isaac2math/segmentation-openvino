@@ -1,0 +1,11 @@
+names:
+- chute
+- chute_skirt
+- train_car
+- ore
+- ore_spill_traincar
+- ore_spill_chute
+nc: 6
+path: /home/ning/Data/Dropbox/Working_Directory/trial_seg/data
+train: train/images
+val: val/images
